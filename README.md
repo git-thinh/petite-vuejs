@@ -1,5 +1,15 @@
 # petite-vue
 
+
+"@vue/reactivity": "^3.2.27",
+    "@vue/shared": "^3.2.27",
+    "chalk": "^4.1.1",
+    "enquirer": "^2.3.6",
+    "execa": "^5.0.0",
+    "semver": "^7.3.5",
+    "typescript": "^4.4.3",
+    "vite": "^2.7.12"
+
 # yarn add -D @vue/reactivity @vue/shared typescript vite
 
 # ERROR: Uncaught RangeError: Maximum call stack size exceeded 
